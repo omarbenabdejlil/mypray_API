@@ -1,6 +1,6 @@
 const request = require("request");
-const dotenv = require("dotenv");
-dotenv.config();
+//const dotenv = require("dotenv");
+//dotenv.config();
 //console.log(process.env); /*  npm install --save dotenv for install the dependencie */
 
 /**
